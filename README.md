@@ -1,5 +1,11 @@
 # auth-using-graphql
 
+# Step one
+``` npm install```
+
+# Step two (if not installed)
+```npm install -g nodemon```
+
 # To start node server run:
 ```npm run dev```
 * you should get below output:
